@@ -7,3 +7,6 @@ The hobbit - https://playclassic.games/games/adventure-dos-games-online/the-hobb
 Until Dawn - https://www.supermassivegames.com/games/until-dawn
 Quarry - https://quarrygame.2k.com/
 corpse party - https://store.steampowered.com/app/251270/Corpse_Party/
+
+Elevator pitch:
+Jesteś nastolatkiem który przez wyzwanie rzucone przez twojego przyjaciela wchodzi do opuszczonego domu na przedmiesciach w ktorym straszy. Poznajac przerazajacych mieszkancow tej posiadlosci musisz znalesc wyjscie z domu rozwiazujac lamiglowki oraz uciekajacym przed czychajacymi przed toba zagrozeniami.
